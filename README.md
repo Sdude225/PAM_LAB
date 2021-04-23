@@ -1,1 +1,2 @@
-# PAM_LAB
+# sample-android-app
+Sample Android app for teaching purposes

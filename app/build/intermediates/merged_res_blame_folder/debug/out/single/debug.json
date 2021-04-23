@@ -32,6 +32,10 @@
         "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_library_books_24.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_library_books_24.xml"
+    },
+    {
         "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
@@ -76,6 +80,10 @@
         "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\mipmap-hdpi\\custom_icon_foreground.png"
     },
     {
+        "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
         "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
@@ -92,6 +100,10 @@
         "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\drawable\\placeholder.png"
     },
     {
+        "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
         "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_custom_icon_round.xml.flat",
         "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\custom_icon_round.xml"
     },
@@ -100,8 +112,16 @@
         "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\mipmap-hdpi\\custom_icon_round.png"
     },
     {
+        "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
         "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\menu\\bottom_nav.xml"
     },
     {
         "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_custom_icon_foreground.png.flat",
@@ -114,6 +134,10 @@
     {
         "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
     },
     {
         "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
@@ -146,6 +170,10 @@
     {
         "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_shape.xml.flat",
         "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_course.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\src\\main\\res\\layout\\fragment_course.xml"
     },
     {
         "merged": "C:\\Users\\User\\Desktop\\sample-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
