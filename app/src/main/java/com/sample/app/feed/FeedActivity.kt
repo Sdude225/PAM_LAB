@@ -59,25 +59,4 @@ class FeedActivity : AppCompatActivity() {
         fragmentTransaction.commit()
 
     }
-
-//    private fun prepareData() {
-//        itemList = ArrayList()
-//        val vItemCount = 5
-//        val hItemCount = 10
-//        for (i in 0 until vItemCount) {
-//            val hList: MutableList<String> = ArrayList()
-//            for (j in 0 until hItemCount) {
-//                hList.add("Item.$j")
-//            }
-//            (itemList as ArrayList<List<String>>).add(hList)
-//        }
-//    }
-//
-//    private fun initListView() {
-//        verticalList = findViewById<View>(R.id.vertical_list) as RecyclerView
-//        verticalList!!.layoutManager = LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false)
-//        val verticalAdapter = VerticalAdapter()
-//        verticalAdapter.setData(itemList)
-//        verticalList!!.adapter = verticalAdapter
-//    }
 }
