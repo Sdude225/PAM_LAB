@@ -4,13 +4,14 @@
 *.ap_
 *.aab
 
+app/build
+
 # Files for the ART/Dalvik VM
 *.dex
+app/build
 
 # Java class files
 *.class
-
-app/build
 
 # Generated files
 bin/
