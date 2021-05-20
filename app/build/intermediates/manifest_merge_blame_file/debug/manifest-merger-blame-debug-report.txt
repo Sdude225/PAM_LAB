@@ -6,62 +6,71 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml
+8-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml
+9-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <application
-13-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:7:5-22:19
+13-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:7:5-22:19
 14        android:allowBackup="true"
-14-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:8:9-35
+14-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:8:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 15-->[androidx.core:core:1.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\37e7f56099c5a626c8d35e80c7951340\core-1.2.0\AndroidManifest.xml:24:18-86
 16        android:debuggable="true"
 17        android:icon="@mipmap/custom_icon"
-17-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:9:9-43
+17-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:9:9-43
 18        android:label="Sample Name"
-18-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:10:9-36
+18-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:10:9-36
 19        android:roundIcon="@mipmap/custom_icon_round"
-19-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:11:9-54
+19-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:11:9-54
 20        android:supportsRtl="true"
-20-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:12:9-35
-21        android:testOnly="true"
-22        android:theme="@style/AppTheme" >
-22-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:13:9-40
-23        <activity android:name="com.sample.app.feed.FeedActivity" />
-23-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:14:9-54
-23-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:14:19-52
-24        <activity android:name="com.sample.app.MainActivity" >
-24-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:15:9-21:20
-24-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:15:19-47
-25            <intent-filter>
-25-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:16:13-20:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:17:17-69
-26-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:17:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:18:17-77
-28-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:18:27-74
-29
-30                <action android:name="android.intent.action.VIEW" /> <!-- Add for suppressing warning that app is not indexed by Google -->
-30-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:19:17-69
-30-->C:\Users\User\Desktop\sample-android-app-master\app\src\main\AndroidManifest.xml:19:25-66
-31            </intent-filter>
-32        </activity>
-33
-34        <provider
-34-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\debff71eec197946127869cf004bf324\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
-35            android:name="com.squareup.picasso.PicassoProvider"
-35-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\debff71eec197946127869cf004bf324\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
-36            android:authorities="com.example.myandroidapplication.com.squareup.picasso"
-36-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\debff71eec197946127869cf004bf324\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
-37            android:exported="false" />
-37-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\debff71eec197946127869cf004bf324\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
-38    </application>
-39
-40</manifest>
+20-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:12:9-35
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:13:9-40
+22        <activity android:name="com.sample.app.view.FeedActivity" />
+22-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:14:9-68
+22-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:14:19-66
+23        <activity android:name="com.sample.app.MainActivity" >
+23-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:15:9-21:20
+23-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:15:19-47
+24            <intent-filter>
+24-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:16:13-20:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:17:17-69
+25-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:17:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:18:17-77
+27-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:18:27-74
+28
+29                <action android:name="android.intent.action.VIEW" /> <!-- Add for suppressing warning that app is not indexed by Google -->
+29-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:19:17-69
+29-->C:\Users\User\Desktop\PAM_LAB\app\src\main\AndroidManifest.xml:19:25-66
+30            </intent-filter>
+31        </activity>
+32
+33        <provider
+33-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\debff71eec197946127869cf004bf324\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+34            android:name="com.squareup.picasso.PicassoProvider"
+34-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\debff71eec197946127869cf004bf324\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+35            android:authorities="com.example.myandroidapplication.com.squareup.picasso"
+35-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\debff71eec197946127869cf004bf324\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+36            android:exported="false" />
+36-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\debff71eec197946127869cf004bf324\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+37        <provider
+37-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\81bd601b95bf04d07e3d3967ba8d12df\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+38            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+38-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\81bd601b95bf04d07e3d3967ba8d12df\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+39            android:authorities="com.example.myandroidapplication.lifecycle-process"
+39-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\81bd601b95bf04d07e3d3967ba8d12df\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+40            android:exported="false"
+40-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\81bd601b95bf04d07e3d3967ba8d12df\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+41            android:multiprocess="true" />
+41-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\81bd601b95bf04d07e3d3967ba8d12df\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+42    </application>
+43
+44</manifest>

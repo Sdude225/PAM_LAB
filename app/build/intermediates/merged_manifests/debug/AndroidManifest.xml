@@ -18,9 +18,8 @@
         android:label="Sample Name"
         android:roundIcon="@mipmap/custom_icon_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.sample.app.feed.FeedActivity" />
+        <activity android:name="com.sample.app.view.FeedActivity" />
         <activity android:name="com.sample.app.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -35,6 +34,11 @@
             android:name="com.squareup.picasso.PicassoProvider"
             android:authorities="com.example.myandroidapplication.com.squareup.picasso"
             android:exported="false" />
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.example.myandroidapplication.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
     </application>
 
 </manifest>
